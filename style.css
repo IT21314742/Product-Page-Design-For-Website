@@ -15,5 +15,5 @@
 .product{
     width: 90%;
     max-width: 750px;
-    display: ;
+    display: flex;
 }
