@@ -74,5 +74,5 @@
 }
 .size-select input:checked + span{
     color: blue;
-    
+    font-weight: ;
 }
