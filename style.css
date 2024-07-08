@@ -72,3 +72,4 @@
 .size-select p{
     width: 70px;
 }
+.size-select input:checked + span
