@@ -125,5 +125,5 @@
     display: none;
 }
 .color-select input:checked + span{
-    
+    transform: ;
 }
