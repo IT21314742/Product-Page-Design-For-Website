@@ -124,4 +124,6 @@
 .color-select input{
     display: none;
 }
-.color-select input:checked + span{}
+.color-select input:checked + span{
+    
+}
