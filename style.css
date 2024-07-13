@@ -60,39 +60,48 @@
     color: #00d874;
     margin-bottom: 20px;
 }
-.details form{
+
+.details form {
     font-size: 15px;
     font-weight: 400;
 }
-.size-select{
+
+.size-select {
     display: flex;
     align-items: center;
     margin-top: 50px;
 }
-.size-select p{
+
+.size-select p {
     width: 70px;
 }
-.size-select input:checked + span{
+
+.size-select input:checked+span {
     color: blue;
     font-weight: 600;
 }
-.size-select input{
+
+.size-select input {
     display: none;
 }
-.size-select span{
+
+.size-select span {
     padding: 5px;
     margin-right: 10px;
     cursor: pointer;
 }
-.color-select{
+
+.color-select {
     display: flex;
     align-items: center;
     margin-top: 20px;
 }
-.color-select p{
+
+.color-select p {
     width: 75px;
 }
-.color-select span{
+
+.color-select span {
     display: inline-block;
     width: 15px;
     height: 15px;
