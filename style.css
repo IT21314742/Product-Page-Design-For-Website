@@ -126,5 +126,5 @@
 }
 .color-select input:checked + span{
     transform: scale(0.7);
-    box-shadow: 0 0 0 4px;
+    box-shadow: 0 0 0 4px #fff;
 }
