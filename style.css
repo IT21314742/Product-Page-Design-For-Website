@@ -126,4 +126,5 @@
 }
 .color-select input:checked + span{
     transform: scale(0.7);
+    
 }
