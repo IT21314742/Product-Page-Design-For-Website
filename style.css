@@ -109,36 +109,43 @@
     margin-right: 15px;
     cursor: pointer;
 }
-.color-1{
+
+.color-1 {
     background: red;
 }
-.color-2{
+
+.color-2 {
     background: #00d874;
 }
-.color-3{
+
+.color-3 {
     background: blue;
 }
-.color-4{
+
+.color-4 {
     background: pink;
 }
-.color-select input{
+
+.color-select input {
     display: none;
 }
-.color-select input:checked + span{
+
+.color-select input:checked+span {
     transform: scale(0.7);
     box-shadow: 0 0 0 4px #fff, 0 0 0 6px #000;
 }
 
-.quantity-select{
+.quantity-select {
     display: flex;
     align-items: center;
     margin-top: 20px;
 }
 
-.quantity-select p{
+.quantity-select p {
     width: 75px;
 }
-.quantity-select input{
+
+.quantity-select input {
     background: #eee;
     border: 0;
     outline: 0;
@@ -146,7 +153,8 @@
     width: 50px;
     border-radius: 12px;
 }
-form button{
+
+form button {
     background: #eee;
     color: #fff;
     font-size: 17px;
@@ -159,12 +167,14 @@ form button{
     margin-top: 50px;
     box-shadow: 0 10px 10px rgba(85, 63, 240, 0.25);
 }
-.controls{
+
+.controls {
     position: absolute;
     bottom: 30px;
     right: 20px;
 }
-.btn{
+
+.btn {
     display: block;
     width: 10px;
     height: 10px;
@@ -173,6 +183,7 @@ form button{
     margin: 10px;
     cursor: pointer;
 }
-.btn.active{
+
+.btn.active {
     background: #553ff0;
 }
