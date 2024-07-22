@@ -157,6 +157,6 @@ form button{
     outline: 0;
     cursor: pointer;
     margin-top: 50px;
-    box-shadow: 0 10px ;
+    box-shadow: 0 10px 10;
 
 }
