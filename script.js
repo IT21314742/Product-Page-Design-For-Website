@@ -1,1 +1,1 @@
-let productImg
+let productImg = 
