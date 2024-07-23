@@ -5,6 +5,6 @@ btn[0].onclick = function(){
     productImg.src = "image1.png";
 
     for(bt of btn){
-        bt.classList.remove
+        bt.classList.remove()
     }
 }
