@@ -1,1 +1,1 @@
-let productImg = document.
+let productImg = document.getElementById
