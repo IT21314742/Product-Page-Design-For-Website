@@ -1,1 +1,1 @@
-let productImg = document.getElementById("productsImg")
+let productImg = document.getElementById("productsImg");
