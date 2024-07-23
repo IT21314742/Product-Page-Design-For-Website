@@ -9,3 +9,4 @@ btn[0].onclick = function(){
     }
     this.classList.add("active");
 }
+btn
