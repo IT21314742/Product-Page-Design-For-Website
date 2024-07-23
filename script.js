@@ -1,2 +1,2 @@
 let productImg = document.getElementById("productsImg");
-let btn = document.getElementsByClassName("btn")
+let btn = document.getElementsByClassName("btn");
