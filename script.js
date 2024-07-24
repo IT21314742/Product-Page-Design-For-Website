@@ -13,6 +13,6 @@ btn[1].onclick = function(){
     productsImg.src = "image2.png";
 
     for(bt of btn){
-        bt.classList.remove("active")
+        bt.classList.remove("active");
     }
 }
