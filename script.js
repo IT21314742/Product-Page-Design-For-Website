@@ -9,4 +9,6 @@ btn[0].onclick = function(){
     }
     this.classList.add("active");
 }
-btn[1].onclick = function(){}
+btn[1].onclick = function(){
+    
+}
