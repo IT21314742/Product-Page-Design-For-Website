@@ -11,4 +11,5 @@ btn[0].onclick = function(){
 }
 btn[1].onclick = function(){
     productsImg.src = "image2.png";
+    
 }
