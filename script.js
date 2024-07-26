@@ -17,4 +17,4 @@ btn[1].onclick = function(){
     }
     this.classlist.add("active");
 }
-btn[2].onclick 
+btn[2].onclick =
