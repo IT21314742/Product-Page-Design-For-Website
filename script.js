@@ -15,5 +15,5 @@ btn[1].onclick = function(){
     for(bt of btn){
         bt.classList.remove("active");
     }
-    this.c
+    this.cl
 }
