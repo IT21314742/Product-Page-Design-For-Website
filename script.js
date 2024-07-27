@@ -15,7 +15,7 @@ btn[1].onclick = function(){
     for(bt of btn){
         bt.classList.remove("active");
     }
-    this.classlist.add("active");
+    this.classList.add("active");
 }
 btn[2].onclick = function(){
     productsImg.src = "image3.png";
