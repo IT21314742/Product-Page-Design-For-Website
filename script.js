@@ -20,5 +20,7 @@ btn[1].onclick = function(){
 btn[2].onclick = function(){
     productsImg.src = "image3.png";
 
-    for(bt of btn){}
+    for(bt of btn){
+        
+    }
 }
