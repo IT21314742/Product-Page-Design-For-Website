@@ -1,26 +1,26 @@
 let productImg = document.getElementById("productsImg");
 let btn = document.getElementsByClassName("btn");
 
-btn[0].onclick = function(){
+btn[0].onclick = function () {
     productsImg.src = "image1.png";
 
-    for(bt of btn){
+    for (bt of btn) {
         bt.classList.remove("active");
     }
     this.classList.add("active");
 }
-btn[1].onclick = function(){
+btn[1].onclick = function () {
     productsImg.src = "image2.png";
 
-    for(bt of btn){
+    for (bt of btn) {
         bt.classList.remove("active");
     }
     this.classList.add("active");
 }
-btn[2].onclick = function(){
+btn[2].onclick = function () {
     productsImg.src = "image3.png";
 
-    for(bt of btn){
+    for (bt of btn) {
         bt.classList.remove("active");
     }
     this.classList.add("active");
