@@ -23,5 +23,5 @@ btn[2].onclick = function(){
     for(bt of btn){
         bt.classlist.remove("active");
     }
-    this.classlist.add("a")
+    this.classlist.add("ac")
 }
